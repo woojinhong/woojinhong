@@ -1,6 +1,10 @@
-Hi there, Welcome to my page !
+### Hi there, Welcome to my page ! 👋
+<br>
+<br>
 
-
+### About Me
+---
+![KakaoTalk_20240331_141435597](https://github.com/woojinhong/woojinhong/assets/61961800/1be20443-e323-43a4-916c-d14ef63de097)
 
 👋 Hello, I'm Hans Hong from South Korea, currently living in Bucheon, Korea.
 
@@ -9,12 +13,14 @@ Hi there, Welcome to my page !
 💼 Currently graduated *BSc (Hons) Information Technology*, Sunway University 
 
 📫  Find me on *orolzleim@gmail.com* Feel free to reach out for any inquiries or to share exciting project ideas, or to collaborate on development purposes."
+<br>
+<br>
+
 
 
 *Technology Stack*
-<br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+---
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
