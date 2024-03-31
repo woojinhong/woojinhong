@@ -2,23 +2,29 @@
 <br>
 <br>
 
-### About Me
----
-![KakaoTalk_20240331_141435597](https://github.com/woojinhong/woojinhong/assets/61961800/1be20443-e323-43a4-916c-d14ef63de097)
 
-👋 Hello, I'm Hans Hong from South Korea, currently living in Bucheon, Korea.
 
-🚀 Back-end developer passionate about learning new skills.
+<div>
+  <img src = "https://github.com/woojinhong/woojinhong/assets/61961800/1be20443-e323-43a4-916c-d14ef63de097" width="30%" height="20%" align="left">
+  <p>
 
-💼 Currently graduated *BSc (Hons) Information Technology*, Sunway University 
+  ### About Me
+  ---
+  
+  👋 Hello, I'm Hans Hong from South Korea, currently living in Bucheon, Korea.
+  
+  🚀 Back-end developer passionate about learning new skills.
+  
+  💼 Currently graduated *BSc (Hons) Information Technology*, Sunway University 
+  
+  📫 Find me on *orolzleim@gmail.com* Feel free to reach out for any inquiries or to share exciting project ideas, or to collaborate on development purposes.
 
-📫  Find me on *orolzleim@gmail.com* Feel free to reach out for any inquiries or to share exciting project ideas, or to collaborate on development purposes."
+  </p>
+</div>
+
 <br>
-<br>
 
-
-
-*Technology Stack*
+### Technology Stack
 ---
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
